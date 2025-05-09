@@ -1,8 +1,8 @@
 import React from "react";
-import NameInput from "./NameInput";
+import HookStructure from "./HookStructure";
 
 const App = () => {
-  return <NameInput />;
+  return <HookStructure />;
 };
 
 export default App;
