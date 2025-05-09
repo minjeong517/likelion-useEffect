@@ -1,8 +1,7 @@
-import React from "react";
-import HookStructure from "./HookStructure";
+import ItemList from "./ItemList";
 
 const App = () => {
-  return <HookStructure />;
+  return <ItemList />;
 };
 
 export default App;
