@@ -1,7 +1,7 @@
-import ItemList from "./ItemList";
+import TimerSwitch from "./TimerSwitch";
 
 const App = () => {
-  return <ItemList />;
+  return <TimerSwitch />;
 };
 
 export default App;
